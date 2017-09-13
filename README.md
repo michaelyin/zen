@@ -7,3 +7,8 @@ python -m unittest discover -v
 
 logging configuration file:
 logging.conf
+
+#references:
+http://plumberjack.blogspot.com/
+http://www.patricksoftwareblog.com/python-unit-testing-structuring-your-project/
+
